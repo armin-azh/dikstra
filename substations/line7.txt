@@ -1,0 +1,12 @@
+basij 100 5
+molavi 101 3
+meidan-mohamadie 10 4
+mahdie 65 5
+helale-ahmar 102 3
+beryanak 103 3
+komeil 104 3
+rodaki 105 4
+shahid-navab-safavi 45 5
+tohid 81 3
+tarbiat-modares 106 3
+meidan-saat 107 4
